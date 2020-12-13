@@ -1,0 +1,242 @@
+[
+    {
+        "rank": 1,
+        "title": "GnuCOBOL 3.1.1",
+        "url": "https://sourceforge.net/p/gnucobol/code/HEAD/tree/branches/gnucobol-3.x/NEWS",
+        "points": 18,
+        "username": "rhabarba",
+        "comments": 1
+    },
+    {
+        "rank": 2,
+        "title": "Microsoft releases a preview of x64 emulation on Windows for ARM",
+        "url": "https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/",
+        "points": 174,
+        "username": "Tepix",
+        "comments": 5
+    },
+    {
+        "rank": 3,
+        "title": "Pointer Pointer (2012)",
+        "url": "https://pointerpointer.com/",
+        "points": 196,
+        "username": "heinrich5991",
+        "comments": 5
+    },
+    {
+        "rank": 4,
+        "title": "Museum of Bad Album Covers",
+        "url": "http://www.zonicweb.net/badalbmcvrs/index.htm",
+        "points": 91,
+        "username": "gscott",
+        "comments": 4
+    },
+    {
+        "rank": 5,
+        "title": "Monads and GATs in Nightly Rust",
+        "url": "https://www.fpcomplete.com/blog/monads-gats-nightly-rust/",
+        "points": 94,
+        "username": "asimpletune",
+        "comments": 6
+    },
+    {
+        "rank": 6,
+        "title": "Vftool runs Linux virtual machines in macOS Big Sur",
+        "url": "https://github.com/evansm7/vftool",
+        "points": 130,
+        "username": "syrusakbary",
+        "comments": 8
+    },
+    {
+        "rank": 7,
+        "title": "Cypress: Fast, easy, and reliable testing for anything that runs in a browser",
+        "url": "https://www.cypress.io/",
+        "points": 244,
+        "username": "OJFord",
+        "comments": 11
+    },
+    {
+        "rank": 8,
+        "title": "Brave Introduces Brave Today, the Privacy-Preserving News Reader",
+        "url": "https://brave.com/announcing-brave-today/",
+        "points": 66,
+        "username": "nsnante",
+        "comments": 6
+    },
+    {
+        "rank": 9,
+        "title": "Gustav (YC S17) Is Hiring – Growth Product Manager (Fully Remote)",
+        "url": "https://gustav-technologies-inc.breezy.hr/p/a8a7f360866101",
+        "points": 1,
+        "username": "hide",
+        "comments": null
+    },
+    {
+        "rank": 10,
+        "title": "Heavy is the Head that wears the AirPods Max",
+        "url": "https://daringfireball.net/2020/12/heavy_is_the_head_that_wears_the_airpods_max",
+        "points": 56,
+        "username": "ch_sm",
+        "comments": 4
+    },
+    {
+        "rank": 11,
+        "title": "A truly independet web spider",
+        "url": "https://www.mojeek.com",
+        "points": 43,
+        "username": "jhoechtl",
+        "comments": 4
+    },
+    {
+        "rank": 12,
+        "title": "EU leaders agree to cut emissions by at least 55% by end of decade",
+        "url": "https://www.theguardian.com/world/2020/dec/11/eu-leaders-reach-deal-to-cut-emissions-by-at-least-55-by-end-of-decade",
+        "points": 23,
+        "username": "billyharris",
+        "comments": 47
+    },
+    {
+        "rank": 13,
+        "title": "The 'Japanese Bob Ross': How a 73-year-old artist took YouTube by storm",
+        "url": "https://edition.cnn.com/2020/12/09/asia/shibasaki-japan-youtube-star-spc-intl/index.html",
+        "points": 8,
+        "username": "williamsharris",
+        "comments": 1
+    },
+    {
+        "rank": 14,
+        "title": "Paul Chan: Drawings for Word Book by Ludwig Wittgenstein",
+        "url": "https://greenenaftaligallery-viewingroom.exhibit-e.art/viewing-room/paul-chan",
+        "points": 13,
+        "username": "mellosouls",
+        "comments": 3
+    },
+    {
+        "rank": 15,
+        "title": "Am I Disabled?",
+        "url": "https://aeon.co/essays/what-does-it-mean-to-consider-yourself-a-disabled-person",
+        "points": 147,
+        "username": "magnifique",
+        "comments": 11
+    },
+    {
+        "rank": 16,
+        "title": "How the Slowest Computer Programs Illuminate Math’s Fundamental Limits",
+        "url": "https://www.quantamagazine.org/the-busy-beaver-game-illuminates-the-fundamental-limits-of-math-20201210/",
+        "points": 99,
+        "username": "pontus",
+        "comments": 11
+    },
+    {
+        "rank": 17,
+        "title": "AR with SceneKit and Metal",
+        "url": "https://emillindfors.com/blog/2020-12/ar-with-scenekit-and-metal/",
+        "points": 136,
+        "username": "emllnd",
+        "comments": 17
+    },
+    {
+        "rank": 18,
+        "title": "Some doctors, therapists get Health Canada permission to use magic mushrooms",
+        "url": "https://www.cbc.ca/news/canada/london/some-doctors-therapists-get-health-canada-permission-to-use-magic-mushrooms-1.5834485",
+        "points": 125,
+        "username": "billyharris",
+        "comments": 8
+    },
+    {
+        "rank": 19,
+        "title": "Cameras and Lenses",
+        "url": "https://ciechanow.ski/cameras-and-lenses/",
+        "points": 1973,
+        "username": "mariuz",
+        "comments": 1
+    },
+    {
+        "rank": 20,
+        "title": "The Making of “The Godfather” – Sort of a home movie (1971)",
+        "url": "http://www.thestacksreader.com/the-making-of-the-godfather-sort-of-a-home-movie/",
+        "points": 75,
+        "username": "dadt",
+        "comments": 12
+    },
+    {
+        "rank": 21,
+        "title": "Inuttitut, a language shaped by humility, poetry, and the land",
+        "url": "https://beside.media/new-narratives/nuna/",
+        "points": 50,
+        "username": "diaphanous",
+        "comments": 10
+    },
+    {
+        "rank": 22,
+        "title": "Finding Critical Open Source Projects",
+        "url": "https://opensource.googleblog.com/",
+        "points": 79,
+        "username": "QuantumWasp",
+        "comments": 11
+    },
+    {
+        "rank": 23,
+        "title": "Canada's 350-year-old department store Hudson's Bay locked out by landlords",
+        "url": "https://www.timescolonist.com/business/hudson-s-bay-in-coquitlam-closes-as-other-hbc-stores-stop-paying-rent-1.24243453",
+        "points": 85,
+        "username": "walrus01",
+        "comments": 15
+    },
+    {
+        "rank": 24,
+        "title": "Show HN: Crossminds.ai – A knowledge graph indexed AI research video library",
+        "url": "https://crossminds.ai/explore/",
+        "points": 60,
+        "username": "tecresearch",
+        "comments": 11
+    },
+    {
+        "rank": 25,
+        "title": "We can have democracy or we can have Facebook",
+        "url": "https://the.ink/p/we-can-have-democracy-or-we-can-have",
+        "points": 98,
+        "username": "imartin2k",
+        "comments": 3
+    },
+    {
+        "rank": 26,
+        "title": "Diet may help reduce cognitive decline",
+        "url": "https://www.research.iastate.edu/news/isu-study-indicates-diet-may-help-reduce-cognitive-decline/",
+        "points": 17,
+        "username": "thinkingemote",
+        "comments": 2
+    },
+    {
+        "rank": 27,
+        "title": "The Airbnbs",
+        "url": "https://blog.ycombinator.com/the-airbnbs/",
+        "points": 538,
+        "username": "todsacerdoti",
+        "comments": 19
+    },
+    {
+        "rank": 28,
+        "title": "Combinatorial Theory Journal Launches with Innovative Open Access Funding Model",
+        "url": "https://osc.universityofcalifornia.edu/2020/12/combinatorial-theory-launches/",
+        "points": 61,
+        "username": "tingletech",
+        "comments": 12
+    },
+    {
+        "rank": 29,
+        "title": "Google Alternatives",
+        "url": "https://justprivacy.org/google-alternatives/",
+        "points": 215,
+        "username": "yepgwer",
+        "comments": 12
+    },
+    {
+        "rank": 30,
+        "title": "Major browsers are getting hit in widespread malware attacks",
+        "url": "https://arstechnica.com/information-technology/2020/12/ongoing-malware-attacks-are-hitting-users-of-4-major-browsers/",
+        "points": 18,
+        "username": "1cvmask",
+        "comments": 1
+    }
+]
